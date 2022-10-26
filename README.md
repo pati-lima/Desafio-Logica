@@ -50,7 +50,7 @@ Apenas inteiros positivos podem ser usados como notas.
 ### Desafio 2:
 ##### Objetivo: Exercitar a Lógica
 ##### Desafio: Crie um script que receba uma string e retorne a maior letra segundo a ordem alfabética em minusculo.
-##### Obs: Assuma que a string nao possui apenas letras sem acentos e/ou caracteres especiais.
+##### Obs: Assuma que a string possui apenas letras sem acentos e/ou caracteres especiais.
 ##### Bônus: Validar a entrada da string removendo caracteres não Alfanuméricos.
 
 ### Resultado esperado - Desafio 2:
@@ -92,6 +92,3 @@ Saida 2: COLLINS, S. M
 Saida 3: MARTIN, G. R. R
 ```
 ---
-
-
-
