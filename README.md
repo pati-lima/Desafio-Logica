@@ -72,7 +72,7 @@ Entrada 3: Maior letra = 'y'
 
 ### Desafio 3:
 ##### Objetivo: Exercitar a Lógica
-##### Desafio: Escreva uma função que receba um string contendo um nome completo e retorne uma string com o seguinte formato (ULTIMO_SOBRENOME. E as primeiras letras dos restantes dos nomes em MAIÚSCULO, separados por virgula.)
+##### Desafio: Escreva uma função que receba um string contendo um nome completo e retorne uma string com o seguinte formato (ULTIMO_SOBRENOME. E as primeiras letras dos restantes dos nomes em MAIÚSCULO, separados por virgula e pontos.)
 ##### Bônus: Use sua criatividade.
 
 ### Resultado esperado - Desafio 3:
