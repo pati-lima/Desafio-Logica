@@ -2,6 +2,15 @@
 ##### Observações Gerais:
 + Acessar a IDE de desenvolvimento desejada.
 + Usar a linguagem preferida desde que atenda os requisitos.
+
+##### Envio:
++ Pode enviar dando um FORK nesse respositório e criando uma Branch 'Respostas'.
++ Pode criar um repositório publico, e enviar suas respostas.
++ Pode enviar as respostas como arquivo anexadas por e-mail.
+
+Qualquer um dos meios que escolher, pode nos enviar o link ou as respostas em nosso em-mail.
+rh@grupoastran.com.br;ti@grupoastran.com.br
+
 ---
 ## Desafio 1:
 ##### Objetivo: Exercitar a Lógica.
