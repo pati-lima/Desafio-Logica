@@ -4,8 +4,8 @@
 + Usar a linguagem preferida desde que atenda os requisitos.
 
 ##### Envio:
-+ Pode enviar dando um FORK nesse respositório e criando uma Branch 'Respostas'.
-+ Pode criar um repositório publico, e enviar suas respostas.
++ Pode criar um FORK nesse respositório e criar uma Branch 'Respostas'.
++ Pode criar um repositório publico e enviar suas respostas.
 + Pode enviar as respostas como arquivo anexadas por e-mail.
 
 Qualquer um dos meios que escolher, pode nos enviar o link ou as respostas em nosso em-mail.
