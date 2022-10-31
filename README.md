@@ -8,7 +8,8 @@
 + Pode criar um repositório publico e enviar suas respostas.
 + Pode enviar as respostas como arquivo anexadas por e-mail.
 
-E-mail para rh@grupoastran.com.br com cópia para ti@grupoastran.com.br com o Assunto: 'TESTE LÓGICO RESPOSTAS // {COLOQUE AQUI O SEU NOME COMPLETO}'
+E-mail para rh@grupoastran.com.br com cópia para ti@grupoastran.com.br.
+Assunto: 'TESTE LÓGICO RESPOSTAS // {COLOQUE AQUI O SEU NOME COMPLETO}'
 
 ---
 ## Desafio 1:
