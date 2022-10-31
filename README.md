@@ -8,8 +8,7 @@
 + Pode criar um repositório publico e enviar suas respostas.
 + Pode enviar as respostas como arquivo anexadas por e-mail.
 
-Qualquer um dos meios que escolher, pode nos enviar o link ou as respostas em nosso em-mail.
-rh@grupoastran.com.br;ti@grupoastran.com.br
+E-mail para rh@grupoastran.com.br com cópia para ti@grupoastran.com.br
 
 ---
 ## Desafio 1:
