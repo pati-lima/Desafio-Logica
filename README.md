@@ -2,7 +2,7 @@
 ##### Observações Gerais:
 + Acessar a IDE de desenvolvimento desejada.
 + Usar a linguagem preferida desde que atenda os requisitos.
-+ Preferencialmente: Python, Javascript + Typescript, C#, Go. (Nesta ordem)
++ Preferencialmente: Javascript, Python, C#, Go. (Nesta ordem)
 
 ##### Envio:
 + Pode criar um FORK nesse respositório e criar uma Branch 'Respostas'.
