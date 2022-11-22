@@ -24,9 +24,9 @@
 Entrada 1:
 Escreva seu nome: Rodrigo
 Digite a primeira nota: 9
-Digite a segunda nota: 8
+Digite a segunda nota: 9
 Digite a terceira nota: 10
-Digite a quarta nota: 8
+Digite a quarta nota: 10
 
 Entrada 2:
 Escreva seu nome: Rogerio
@@ -46,8 +46,8 @@ Digite a quarta nota: 7
 #### Saida
 ```console
 Saida 1: Aluno = Rodrigo // Media = 9.5
-Saida 2: Aluno = Rogério // Media = 10
-Saida 3: Aluno = Renato // Media = 8
+Saida 2: Aluno = Rogério // Media = 10.0
+Saida 3: Aluno = Renato // Media = 8.0
 ```
 
 #### Condições
