@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Astran</title>
+    <style>
+        
+        body { font: 12pt Arial; }
+        button { font-size: 12pt; padding: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Média de Notas</h1>
+    <button onclick="media()">Calcular média</button>
+    <section id="situacao">
+        <p>O resultado vai aparecer aqui...</p>
+    </section>
+
+    <script>
+            
+        function media() {
+            let nome = prompt('Qual é o nome do aluno?') 
+            let n1 = Number(prompt(`Digite a primeira nota de ${nome}`))
+            let n2 = Number(prompt(`Digite a segunda nota de ${nome}`))
+            let n3 = Number(prompt(`Digite a terceira nota de ${nome}`))
+            let n4 = Number(prompt(`Digite a quarta nota de ${nome}`))
+            med = (n1 + n2 + n3 + n4)/4 
+
+            let resposta = document.getElementById('situacao')
+            resposta.innerHTML = `<p>Aluno = ${nome} //
+                Média = ${med}</p>`
+            
+           
+        }
+    </script>
+</body>
+</html>
+
+
